@@ -1,0 +1,24 @@
+
+.Parent{
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    border: 1px solid black;
+   
+}
+
+.AllConfessions{
+    width:70vw;
+    border: 1px solid black;
+    border-radius: 40px;
+    padding: 20px;
+    margin: 5px;
+   
+    
+}
+.ConfessionBox{
+    width:30vw ;
+    border: 1px solid black;
+    border-radius: 40px;
+    padding: 20px;
+}
